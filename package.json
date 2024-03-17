@@ -1,0 +1,14 @@
+{
+  "name": "@seveibar/example-circuit",
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@tscircuit/builder": "^1.5.4",
+    "@tscircuit/react-fiber": "^1.0.6",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
